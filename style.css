@@ -1,0 +1,17 @@
+.d1{
+    height:311px;
+    background-color: #710000;
+}
+.d2{
+    height: 462px;
+    background-color: #404040;
+
+}
+body{
+    margin: 0;
+}
+img{
+    position: absolute;
+    top:209px;
+    left:68px;
+}
